@@ -1,0 +1,67 @@
+# Assault Rifles
+ar_scar_mp
+ar_ak12_mp
+ar_fad_mp
+ar_honeybadger_mp
+ar_maverick_mp
+ar_msbs_mp
+ar_remington_mp
+ar_sa805_mp
+ar_arx160_mp
+
+# Submachine Guns
+smg_bizon_mp
+smg_cbj_ms_mp
+smg_k7_mp
+smg_mtarx_mp
+smg_ripper_mp
+smg_vepr_mp
+smg_vector_mp
+
+# Light Machine Guns
+lmg_ameli_mp
+lmg_chainsaw_mp
+lmg_lsat_mp
+lmg_m27iar_mp
+
+# Marksman Rifles
+marksman_ia2_mp
+marksman_mk14_mp
+marksman_mr28_mp
+marksman_svu_mp
+
+# Sniper Rifles
+sniper_l115_mp
+sniper_lynx_mp
+sniper_usr_mp
+sniper_vks_mp
+sniper_maverick_a2_mp
+
+# Shotguns
+shotgun_bulldog_mp
+shotgun_fp6_mp
+shotgun_mts255_mp
+shotgun_tac12_mp
+
+# Handguns
+handgun_44magnum_mp
+handgun_m9a1_mp
+handgun_mp443_mp
+handgun_p226_mp
+handgun_pdw_mp
+
+# Launchers
+launcher_kastet_mp
+launcher_mk32_mp
+launcher_panzerfaust_mp
+
+# Specials
+special_knife_mp
+special_riotshield_mp
+special_minigun_mp
+special_maaws_mp
+special_venomx_mp
+special_nx1_disruptor_mp
+
+# Miscellaneous
+defaultweapon_mp
