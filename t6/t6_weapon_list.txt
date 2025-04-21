@@ -1,0 +1,63 @@
+# SMG
+mp7_mp
+pdw57_mp
+vector_mp
+insas_mp
+qcw05_mp
+evoskorpion_mp
+peacekeeper_mp
+
+# Assault Rifles
+tar21_mp
+type95_mp
+sig556_mp
+sa58_mp
+hk416_mp
+scar_mp
+saritch_mp
+xm8_mp
+an94_mp
+
+# Shotgun
+870mcs_mp
+saiga12_mp
+ksg_mp
+srm1216_mp
+
+# LMG
+mk48_mp
+qbb95_mp
+lsat_mp
+hamr_mp
+
+# Sniper
+svu_mp
+dsr50_mp
+ballista_mp
+as50_mp
+
+# Pistols
+kard_dw_mp
+fnp45_dw_mp
+fiveseven_dw_mp
+judge_dw_mp
+beretta93r_dw_mp
+fiveseven_mp
+fnp45_mp
+beretta93r_mp
+judge_mp
+kard_mp
+
+# Launchers
+m32_mp
+smaw_mp
+fhj18_mp
+usrpg_mp
+
+# Special
+knife_mp
+knife_held_mp
+minigun_mp
+riotshield_mp
+crossbow_mp
+knife_ballistic_mp
