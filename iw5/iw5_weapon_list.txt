@@ -1,0 +1,66 @@
+# Assault Rifles
+iw5_m4_mp
+iw5_m16_mp
+iw5_scar_mp
+iw5_cm901_mp
+iw5_type95_mp
+iw5_g36c_mp
+iw5_acr_mp
+iw5_ak47_mp
+iw5_fad_mp
+iw5_mk14_mp
+
+# Submachine Guns
+iw5_mp5_mp
+iw5_ump45_mp
+iw5_pp90m1_mp
+iw5_p90_mp
+iw5_pm9_mp
+iw5_mp7_mp
+
+# Light Machine Guns
+iw5_l86_mp
+iw5_mg36_mp
+iw5_pecheneg_mp
+iw5_mk46_mp
+iw5_m60_mp
+
+# Sniper Rifles
+iw5_barrett_mp
+iw5_l118a_mp
+iw5_dragunov_mp
+iw5_as50_mp
+iw5_rsass_mp
+iw5_msr_mp
+
+# Shotguns
+iw5_usas12_mp
+iw5_ksg12_mp
+iw5_spas12_mp
+iw5_aa12_mp
+iw5_striker_mp
+iw5_1887_mp
+
+# Handguns
+iw5_usp45_mp
+iw5_p99_mp
+iw5_mp412_mp
+iw5_44magnum_mp
+iw5_fiveseven_mp
+iw5_deserteagle_mp
+
+# Machine Pistols
+iw5_fmg9_mp
+iw5_mp9_mp
+iw5_skorpion_mp
+iw5_g18_mp
+
+# Launchers
+smaw_mp
+stinger_mp
+javelin_mp
+rpg_mp
+
+# Melee
+iw5_knife_mp
+iw5_riotshield_mp
