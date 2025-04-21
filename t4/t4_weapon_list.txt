@@ -1,0 +1,61 @@
+# Rifles
+kar98k_mp
+kar98k_scoped_mp
+mosin_nagant_mp
+mosin_nagant_scoped_mp
+springfield_mp
+springfield_scoped_mp
+gewehr43_mp
+m1carbine_mp
+m1garand_mp
+svt40_mp
+stg44_mp
+type99_rifle_mp
+type99_lmg_mp
+type100_smg_mp
+ariskaka_mp
+ariskaka_bayonet_mp
+fg42_mp
+fg42_bipod_mp
+
+# Submachine Guns
+mp40_mp
+thompson_mp
+ppsh_mp
+type100_mp
+
+# Light Machine Guns
+bar_mp
+dp28_mp
+mg42_mp
+mg42_bipod_mp
+30cal_mp
+30cal_bipod_mp
+
+# Shotguns
+shotgun_mp
+doublebarrel_mp
+doublebarrel_sawed_mp
+doublebarrel_grip_mp
+
+# Handguns
+colt_mp
+walther_mp
+tokarev_mp
+nambu_mp
+revolver_mp
+
+# Launchers
+panzerschrek_mp
+bazooka_mp
+
+# Special Weapons
+m2_flamethrower_mp
+ray_gun_mp
+wunderwaffe_mp
+
+# Melee
+knife_mp
+
+# Miscellaneous
+defaultweapon_mp
