@@ -1,0 +1,62 @@
+# Assault Rifles
+m4_mp
+m16_mp
+ak47_mp
+famas_mp
+fn2000_mp
+acr_mp
+scar_mp
+tavor_mp
+fal_mp
+
+# Submachine Guns
+ump45_mp
+vector_mp
+p90_mp
+uzi_mp
+mp5k_mp
+
+# Light Machine Guns
+rpd_mp
+mg4_mp
+m240_mp
+aug_mp
+l86_mp
+
+# Sniper Rifles
+cheytac_mp
+barrett_mp
+wa2000_mp
+m21_mp
+
+# Shotguns
+spas12_mp
+aa12_mp
+striker_mp
+ranger_mp
+m1014_mp
+model1887_mp
+
+# Handguns
+usp_mp
+m9_mp
+m1911_mp
+deserteagle_mp
+.44magnum_mp
+
+# Machine Pistols
+pp2000_mp
+g18_mp
+m93raffica_mp
+tmp_mp
+
+# Launchers
+at4_mp
+rpg_mp
+stinger_mp
+javelin_mp
+thumper_mp
+
+# Melee
+knife_mp
+riotshield_mp
