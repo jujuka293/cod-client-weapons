@@ -1,0 +1,48 @@
+# Assault Rifles
+m16_mp
+ak47_mp
+m4_mp
+g3_mp
+g36c_mp
+m14_mp
+mp44_mp
+
+# Submachine Guns
+mp5_mp
+ak74u_mp
+uzi_mp
+p90_mp
+skorpion_mp
+
+# Light Machine Guns
+m249saw_mp
+rpd_mp
+m60e4_mp
+
+# Sniper Rifles
+m40a3_mp
+m21_mp
+dragunov_mp
+r700_mp
+barrett_mp
+
+# Shotguns
+m1014_mp
+winchester1200_mp
+
+# Handguns
+usp_mp
+m9_mp
+m1911_mp
+deserteagle_mp
+
+# Launchers
+rpg_mp
+javelin_mp
+stinger_mp
+
+# Melee
+knife_mp
+
+# Miscellaneous
+defaultweapon_mp
