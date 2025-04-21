@@ -1,0 +1,66 @@
+# Assault Rifles
+m16_mp
+enfield_mp
+m14_mp
+famas_mp
+galil_mp
+aug_mp
+fnfal_mp
+ak47_mp
+commando_mp
+g11_mp
+
+# Submachine Guns
+mp5k_mp
+skorpion_mp
+mac11_mp
+ak74u_mp
+uzi_mp
+pm63_mp
+mpl_mp
+spectre_mp
+kiparis_mp
+
+# Light Machine Guns
+rpk_mp
+hk21_mp
+m60_mp
+stoner63_mp
+
+# Sniper Rifles
+dragunov_mp
+l96a1_mp
+wa2000_mp
+psg1_mp
+
+# Shotguns
+olympia_mp
+hs10_mp
+ithaca_mp
+spas_mp
+
+# Handguns
+asp_mp
+m1911_mp
+makarov_mp
+python_mp
+
+# Machine Pistols
+cz75_mp
+cz75dw_mp
+
+# Launchers
+china_lake_mp
+rpg_mp
+strela_mp
+m72_law_mp
+
+# Special Weapons
+crossbow_mp
+ballistic_knife_mp
+
+# Melee
+knife_mp
+
+# Miscellaneous
+defaultweapon_mp
